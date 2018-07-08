@@ -1,0 +1,21 @@
+{
+  "fitbit": {
+    "appUUID": "d275b522-9293-4b7d-82b7-2f669c9fbcd9",
+    "appType": "clockface",
+    "appDisplayName": "CryptoClock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_internet"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "CryptoClock"
+      }
+    }
+  }
+}

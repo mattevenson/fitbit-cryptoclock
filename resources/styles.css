@@ -1,0 +1,11 @@
+#chart line {
+  fill: 'green';
+  stroke-width: 3;
+  visibility: 'hidden';
+}
+
+#hour-marks line {
+  fill: 'white';
+  stroke-width: 2;
+}
+

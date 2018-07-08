@@ -1,0 +1,83 @@
+<svg id="root" viewport-fill="#111111">
+  <g id="mins" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="$-4" y="-90" width="4" height="90" fill="#ffffff" />
+  </g>
+  <g id="hours" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="$-6" y="-55" width="7" height="55" fill="#ffffff" />
+  </g>
+  <g id="hour-marks">
+    <line id="hour-0"/>
+    <line id="hour-1"/>
+    <line id="hour-2"/>
+    <line id="hour-3"/>
+    <line id="hour-4"/>
+    <line id="hour-5"/>
+    <line id="hour-6"/>
+    <line id="hour-7"/>
+    <line id="hour-8"/>
+    <line id="hour-9"/>
+    <line id="hour-10"/>
+    <line id="hour-11"/>
+  </g>
+  <g id="chart">
+    <line id="line-0"/>
+    <line id="line-1"/>
+    <line id="line-2"/>
+    <line id="line-3"/>
+    <line id="line-4"/>
+    <line id="line-5"/>
+    <line id="line-6"/>
+    <line id="line-7"/>
+    <line id="line-8"/>
+    <line id="line-9"/>
+    <line id="line-10"/>
+    <line id="line-11"/>
+    <line id="line-12"/>
+    <line id="line-13"/>
+    <line id="line-14"/>
+    <line id="line-15"/>
+    <line id="line-16"/>
+    <line id="line-17"/>
+    <line id="line-18"/>
+    <line id="line-19"/>
+    <line id="line-20"/>
+    <line id="line-21"/>
+    <line id="line-22"/>
+    <line id="line-23"/>
+    <line id="line-24"/>
+    <line id="line-25"/>
+    <line id="line-26"/>
+    <line id="line-27"/>
+    <line id="line-28"/>
+    <line id="line-29"/>
+    <line id="line-30"/>
+    <line id="line-31"/>
+    <line id="line-32"/>
+    <line id="line-33"/>
+    <line id="line-34"/>
+    <line id="line-35"/>
+    <line id="line-36"/>
+    <line id="line-37"/>
+    <line id="line-38"/>
+    <line id="line-39"/>
+    <line id="line-40"/>
+    <line id="line-41"/>
+    <line id="line-42"/>
+    <line id="line-43"/>
+    <line id="line-44"/>
+    <line id="line-45"/>
+    <line id="line-46"/>
+    <line id="line-47"/>
+    <line id="line-48"/>
+    <line id="line-49"/>
+    <line id="line-50"/>
+    <line id="line-51"/>
+    <line id="line-52"/>
+    <line id="line-53"/>
+    <line id="line-54"/>
+    <line id="line-55"/>
+    <line id="line-56"/>
+    <line id="line-57"/>
+    <line id="line-58"/>
+  </g>
+</svg>
